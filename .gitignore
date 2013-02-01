@@ -1,3 +1,6 @@
+.DS_Store
+
+.gitignore
 # Compiled Object files
 *.slo
 *.lo
@@ -11,3 +14,6 @@
 *.lai
 *.la
 *.a
+
+#Pascal
+*.pas
